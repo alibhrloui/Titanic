@@ -1,2 +1,2 @@
 # Titanic
-machine learning model that predict survivers
+Machine-Learning model that predict survivors from dataset
