@@ -77,4 +77,3 @@ The script generates a submission file (`submission.csv`) that can be submitted 
 
 - Feel free to modify the features, hyperparameters, or other aspects of the script for experimentation.
 
-Happy coding! If you have any questions or suggestions, feel free to open an issue.
